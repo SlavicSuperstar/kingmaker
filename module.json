@@ -57,7 +57,7 @@
   ],
   "packs": [],
   "url": "https://github.com/theripper93/hexplorer",
-  "manifest": "https://github.com/SlavicSuperstar/kingmaker/edit/main/module.json",
+  "manifest": "https://github.com/SlavicSuperstar/kingmaker/blob/main/module.json",
   "relationships": {
     "requires": []
   },
