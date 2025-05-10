@@ -1,0 +1,69 @@
+{
+  "title": "Hexplorer",
+  "description": "A comprehensive toolkit for hex-based exploration featuring hex-based fog of war, customizable colored zones, time advancement mechanics, table rolling, and more.",
+  "id": "hexplorer",
+  "version": "2.0.0",
+  "socket": true,
+  "authors": [
+    {
+      "name": "theripper93",
+      "email": "tsplab@gmail.com",
+      "url": "https://www.patreon.com/theripper93"
+    }
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json"
+    },
+    {
+      "lang": "ja",
+      "name": "\u65e5\u672c\u8a9e",
+      "path": "languages/ja.json"
+    },
+    {
+      "lang": "de",
+      "name": "Deutsch",
+      "path": "languages/de.json"
+    },
+    {
+      "lang": "fr",
+      "name": "Fran\u00e7ais",
+      "path": "languages/fr.json"
+    },
+    {
+      "lang": "es",
+      "name": "Espa\u00f1ol",
+      "path": "languages/es.json"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Portugu\u00eas (Brasil)",
+      "path": "languages/pt-br.json"
+    },
+    {
+      "lang": "it",
+      "name": "Italiano",
+      "path": "languages/it.json"
+    }
+  ],
+  "scripts": [],
+  "esmodules": [
+    "index.js"
+  ],
+  "styles": [
+    "styles/module.css"
+  ],
+  "packs": [],
+  "url": "https://github.com/theripper93/hexplorer",
+  "manifest": "https://r2.foundryvtt.com/packages-public/hexplorer/module.json",
+  "relationships": {
+    "requires": []
+  },
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "protected": false
+}
