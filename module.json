@@ -57,7 +57,7 @@
   ],
   "packs": [],
   "url": "https://github.com/theripper93/hexplorer",
-  "manifest": "https://r2.foundryvtt.com/packages-public/hexplorer/module.json",
+  "manifest": "https://github.com/SlavicSuperstar/kingmaker/edit/main/module.json",
   "relationships": {
     "requires": []
   },
